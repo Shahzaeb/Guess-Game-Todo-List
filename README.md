@@ -1,2 +1,2 @@
-# TodoList
-this is Application in android Studio
+# TodoList,Guss-Game,CV & RSS
+Aplication in android Studio
