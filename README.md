@@ -1,2 +1,2 @@
-# TodoList,Guss-Game,CV & RSS
+# TodoList,Guess-Game,CV & RSS
 Aplication in android Studio
